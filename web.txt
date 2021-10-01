@@ -1,0 +1,23 @@
+Create a new file called web.txt. Answer the following questions in at least 2 paragraphs,
+in your own words, based on what you have learned in this module.
+
+**How does the internet work? What happens when you click on a link? **
+
+
+
+==> How does the Internet work?
+
+Internet is the global network that connects all computers on the world. The Internet
+purpose is moving data from one place to another, so we can communicate, chat, browse
+and share everything. Internet works by using packet router that folows IP ( a unique
+address to find that computer on the network) and TCP (Transmission Control Protocol
+which is one of the main protocols of the Internet Protocol suite).
+
+When you click on the link, the browser and operating system figure out where you've
+clicked. The websites have their own hidden information associated with whatever you
+clicked on, that is called Uniform Resource Locator (URL). Then, your browser takes
+that URL,break out the name of the website, after that using the DNS (Domain Name System,
+used totranslate the IP to host name) to get IP (Internet Protocal). Then, the browser
+opens TCP connect to the website over IP. It wants to meet HTTP or HTTPS server which
+will provide the next web page in HTML, CSS,Javascript, images, and videos that the
+browser render.
