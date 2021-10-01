@@ -13,12 +13,11 @@
 // //handleSubmit.addEventListener("mouseover", () => {
 
 const formElement = document.querySelector("#contact");
-formElement?.addEventListener("submit", function () {
+formElement.addEventListener("submit", function () {
   alert("the form is submitted succesful");
 });
 
-
 const catImage = document.querySelector(".cat-img");
-catImage?.addEventListener("mouseover", function () {
+catImage.addEventListener("mouseover", function () {
   alert("Good job! Welcome you to Cat Lover Family");
 });
