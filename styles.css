@@ -66,4 +66,25 @@ img {
 	border-radius: 15px;
 }
 
+
+.body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.OC{
+	height: 200px;
+	width: 1000px;
+}
+
+
+.food{
+	border-radius: 20px;
+	background-color: #264653 ;
+	color: #14f4d9;
+	font-family:initial;
+}
+
+.hey{
+	font-family:fantasy;
+	color: rgb(106, 33, 79);
 }
