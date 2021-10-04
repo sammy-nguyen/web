@@ -1,22 +1,3 @@
-// const count = 0;
-
-// place10.addEventListener("click", function () {
-//   count += 1;
-//   if (count === 1) {
-//     count = document.createElement("p");
-//     const node1 = document.createTextNode("hey");
-//     count.appendChild(node1);
-//   } else if (count === 2) {
-//     const node2 = document.createTextNode("hello");
-//     count.appendChild(node2);
-//   } else {
-//     const node3 = document.createTextNode("hello1");
-//     count.appendChild(node3);
-//   }
-// });
-
-//place10.addEventListener("click", function)
-
 function placeTen() {
   var myArray = [
     "The Vox",
